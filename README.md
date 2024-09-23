@@ -4,7 +4,7 @@ Welcome to the Initialization Scripts Repository for the Onyxia platform! This r
 
 ## How to use
 
-1. Get the [raw url](https://docs.github.com/en/repositories/working-with-files/using-files/viewing-a-file#viewing-or-copying-the-raw-file-content) of the script you want to initialize your service with or, preferably, create your own initialization script inspired by this repository.
+1. Get the [raw url](https://docs.github.com/en/rephhhhhhhhhhositories/working-with-files/using-files/viewing-a-file#viewing-or-copying-the-raw-file-content) of the script you want to initialize your service with or, preferably, create your own initialization script inspired by this repository.
 
 2. When launching your service on the platform, configure your service. Go to the Init tab and fill in the url of your script.
 
